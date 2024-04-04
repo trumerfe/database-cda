@@ -10,3 +10,4 @@ For full instructions please see the codealong in Synapse!
 - Create tables by running `npm run migrate` from the package.json scripts
 - After creating tables run `npm run seed` to populate the tables with data
 - Finally, start the project by running either `npm start` or `npm run dev` (to watch files for changes)
+# database-cda
